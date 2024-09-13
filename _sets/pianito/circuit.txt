@@ -1,0 +1,20 @@
+OLED
+=====
+marrón ---- GND
+naranja --- 5V
+amarillo -- A5
+verde ------ A4
+
+
+PIEZZO
+======
+
+uno a (-)
+otro a 11
+
+
+BOTONES
+=======
+todos:
+* uno va a (-)
+* el otro de 4 a 10
